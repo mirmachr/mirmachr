@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![github-photo-1](https://github.com/mirmachr/mirmachr/assets/63843422/a9022b61-3e47-45a2-85f6-412375b2177b)
+![github-photo-3](https://github.com/mirmachr/mirmachr/assets/63843422/37cf5834-dca6-45a1-ad4d-2af262e43b15)
 
 I'm passionate about the intersection of data science, machine learning, AI and marketing.
 
-With a background in performance and growth marketing and recent specialization in data science, I am dedicated to leveraging data to drive strategic decisions and innovation. 
+With a background in **performance and growth marketing** and recent specialization in **data science, machine learning & AI**, I am dedicated to leveraging data to drive strategic decisions and innovation. 
