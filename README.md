@@ -15,4 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# importing Image class from PIL package 
+from PIL import Image 
+
+# creating a object 
+im = Image.open(https://drive.google.com/file/d/13rQP6QDWMypeU_5nB-F6pCuA8ggsyuMS/view) 
+
+im.show()
+
 I'm passionate about the intersection of data science, machine learning, AI and marketing, I bring a unique blend of skills in machine learning, NLP, and data analytics. With a background in digital marketing and recent specialization in data science, I am dedicated to leveraging data to drive strategic decisions and innovation. 
