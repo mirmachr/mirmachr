@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, it's Maria 👩‍💻
 
 <!--
 **mirmachr/mirmachr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm passionate about the intersection of data science, machine learning, AI and marketing, I bring a unique blend of skills in machine learning, NLP, and data analytics. With a background in digital marketing and recent specialization in data science, I am dedicated to leveraging data to drive strategic decisions and innovation. 
