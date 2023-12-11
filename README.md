@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://drive.google.com/file/d/13rQP6QDWMypeU_5nB-F6pCuA8ggsyuMS/view
+![github-photo-1](https://github.com/mirmachr/mirmachr/assets/63843422/a9022b61-3e47-45a2-85f6-412375b2177b)
 
-I'm passionate about the intersection of data science, machine learning, AI and marketing, I bring a unique blend of skills in machine learning, NLP, and data analytics. With a background in digital marketing and recent specialization in data science, I am dedicated to leveraging data to drive strategic decisions and innovation. 
+I'm passionate about the intersection of data science, machine learning, AI and marketing.
+
+With a background in performance and growth marketing and recent specialization in data science, I am dedicated to leveraging data to drive strategic decisions and innovation. 
