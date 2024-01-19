@@ -26,7 +26,7 @@ With a background in **performance and growth marketing** and recent specializat
 <p align="left">
   
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/></a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/b861b92581ad5a7b81147073d729eda727f71985d72f3dd198e0afd792a6f9de/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f74656e736f72666c6f772f74656e736f72666c6f772d69636f6e2e737667" alt="tensorflow" width="50" height="50"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="50" height="50"/></a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="jupyter" width="50" height="50"/></a>
   <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sqlite_logo_icon_169724.png" alt="sqlite" width="50" height="50"/></a>
   <a href="https://cloud.google.com/bigquery?hl=en" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/d26da7f89780e438e1f4e9375c5bdd0fc165232c3ad0c35f687c01fe0613e3c6/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676f6f676c655f62696771756572792f676f6f676c655f62696771756572792d69636f6e2e737667" alt="bigquery" width="50" height="50"/></a>
